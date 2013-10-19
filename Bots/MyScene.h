@@ -10,4 +10,8 @@
 
 @interface MyScene : SKScene
 
++(NSMutableArray*)blocks;
++(NSMutableArray*)blockIndexes;
+    
 @end
+
